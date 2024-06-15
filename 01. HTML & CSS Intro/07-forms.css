@@ -1,0 +1,15 @@
+input {
+  margin-bottom: 10px;
+}
+button {
+  margin-left: 50px;
+}
+.input-label {
+  font-size: 17px;
+  margin-bottom: 3px;
+  display: block;
+}
+.checkbox-conteiner {
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
