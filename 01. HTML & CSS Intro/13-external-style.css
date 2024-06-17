@@ -1,0 +1,25 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: beige;
+}
+
+div {
+  margin: 10px 50px;
+  padding: 10px 50px;
+
+  background-color: sandybrown;
+  border: 3px dashed darkblue;
+}
+
+div h1 {
+  text-align: center;
+}
+div p,
+a {
+  font-size: large;
+}
+div:hover {
+  background-color: chocolate;
+  /* cursor: pointer; */
+}
