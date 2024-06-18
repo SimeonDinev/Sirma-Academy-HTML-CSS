@@ -1,3 +1,16 @@
-.highlight {
+/* .highlight {
   color: red;
+} */
+
+/* .highlight {
+  background-color: aqua;
+}
+.red {
+  color: red;
+} */
+
+.common-style {
+  font-family: Helvetica, sans-serif;
+  font-size: 20px;
+  color: violet;
 }
