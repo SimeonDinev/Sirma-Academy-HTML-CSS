@@ -1,0 +1,11 @@
+input[type="text"] {
+  background-color: papayawhip;
+  border-radius: 3px;
+  height: 1.2em;
+}
+
+input[type="submit"] {
+  background-color: lightsalmon;
+  border: 1px solid none;
+  border-radius: 3px;
+}
