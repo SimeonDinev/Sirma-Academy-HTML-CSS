@@ -1,0 +1,9 @@
+h1,
+div {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: chocolate;
+  background-color: aquamarine;
+  width: 150px;
+  padding: 5px;
+  text-align: center;
+}
