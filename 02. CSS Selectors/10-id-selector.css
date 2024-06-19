@@ -1,0 +1,12 @@
+#unique-element {
+  background-color: red;
+  width: 200px;
+  border: 1px dashed black;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+#unique-element:hover {
+  background-color: green;
+  cursor: pointer;
+}
