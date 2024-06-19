@@ -1,0 +1,7 @@
+.parent {
+  background-color: blue;
+}
+.child {
+  background-color: pink;
+  width: 1.5em;
+}
