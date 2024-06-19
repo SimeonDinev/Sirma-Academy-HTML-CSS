@@ -1,0 +1,8 @@
+.pixel-width {
+  background-color: red;
+  width: 50%;
+}
+.percentage-width {
+  background-color: blue;
+  width: 500px;
+}
